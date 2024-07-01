@@ -1,5 +1,3 @@
-# one-more-try
-Have four items
 import tkinter as tk
 from tkinter import Menu
 from datetime import datetime
